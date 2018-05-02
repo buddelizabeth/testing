@@ -6,3 +6,6 @@
 
 #Java class Files
 *.class
+
+#config
+config.py
